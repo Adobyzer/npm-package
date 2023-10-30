@@ -1,5 +1,6 @@
 {
 	"author": "Adam Adobyzer",
+	"description": "A great npm tutorial on the package json",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
